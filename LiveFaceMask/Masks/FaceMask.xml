@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<facemasks>
+    <categories>
+        <category >
+            <id>0</id>
+            <title>Animals</title>
+            <image_name> animal</image_name>
+            <items>
+				
+                <item>
+                    <landmarks_file_name>leopard</landmarks_file_name>
+                    <item_id>1101</item_id>
+                    <mask_title>leopard</mask_title>
+                    <mask_image_name>leopard.png</mask_image_name>
+                </item>
+				
+            </items>
+        </category>
+        <category >
+            <id>1</id>
+            <title>Flags</title>
+            <image_name>tiger.png</image_name>
+            <items>
+				<item>
+					<landmarks_file_name>leopard</landmarks_file_name>
+					<item_id>1101</item_id>
+					<mask_title>leopard</mask_title>
+					<mask_image_name>leopard.png</mask_image_name>
+				</item>
+            </items>
+        </category>
+    </categories>
+</facemasks>
